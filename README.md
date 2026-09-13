@@ -173,6 +173,5 @@ Challenge-Sprint-3/
 Ricardo Algazi - RM 569600
 
 
-## Disciplina
-
-Challenge Sprint 3 — Estatística, Probabilidade e Regressão Linear
+##Video demostrativo
+[Assista ao vídeo](https://youtu.be/PDGPYVY2vO0)
